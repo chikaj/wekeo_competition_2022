@@ -1,5 +1,4 @@
 geopandas
-hda
 matplotlib
 pandas
 rasterio
